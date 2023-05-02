@@ -97,3 +97,8 @@ Currently unable to show Figma wireframe as picture, please log in or make a qui
 ### Networking
 - User information is all held in a server on Back4App
 
+## Video Walkthrough
+
+Here's a walkthrough of some of our app
+
+--> <img src= "ezgif.com-video-to-gif.gif" width=200><br>
